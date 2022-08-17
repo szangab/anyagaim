@@ -1,1 +1,15 @@
-body {background-color:blue;}
+* {box-sizing:border-box}
+@media screen and (min-width:992px)
+{
+h1 {width:80%;margin-left:auto;margin-right:auto; margin-top:-10px;font-size: 2em;padding:1rem;background-color:rgb(38, 143, 241);  text-align: center; color:blue}
+nav {width:80%;margin-left:auto;margin-right:auto; margin-top:-1%;background-color:rgb(38, 143, 241); padding:1rem;}
+li {display:inline}
+}
+@media screen and (max-width:992px)
+{body {background-color:green}
+    
+}
+@media screen and (max-width:768px) {
+    body {background-color:aqua}
+    
+}
