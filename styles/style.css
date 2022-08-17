@@ -10,7 +10,8 @@ aside {width:25%}
 article {width:75%}
 li {display:inline; padding:1em;}
 p {color:white; text-align: justify;}
-a:hover {color:red; text-decoration:underline}
+a:link {background-color:rgb(239, 229, 22);padding:5px;border:2px solid brown;border-radius:10px; text-decoration:none; }
+a:hover {color:blue; text-decoration:underline; background:linear-gradient(yellow,brown); text-shadow:2px 2px 2px rgb(200, 248, 10)}
 }
 @media screen and (max-width:992px)
 {body {background-color:green}
