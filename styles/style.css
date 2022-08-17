@@ -1,15 +1,22 @@
 * {box-sizing:border-box}
 @media screen and (min-width:992px)
 {
-h1 {width:80%;margin-left:auto;margin-right:auto; margin-top:-10px;font-size: 2em;padding:1rem;background-color:rgb(38, 143, 241);  text-align: center; color:blue}
+h1 {width:80%;margin-left:auto;margin-right:auto; margin-top:-1%;font-size: 2em;padding:1rem;background-color:rgb(38, 143, 241);  text-align: center; color:blue}
 nav {width:80%;margin-left:auto;margin-right:auto; margin-top:-1%;background-color:rgb(38, 143, 241); padding:1rem;}
+main {width:80%;margin-left:auto;margin-right:auto; margin-top:1%;background-color:rgb(38, 143, 241); padding:1rem;
+display:flex; justify-content: space-between;}
+aside {width:25%}
+article {width:75%}
 li {display:inline}
+p {color:white; text-align: justify;}
 }
 @media screen and (max-width:992px)
 {body {background-color:green}
+p {color:yellow;  text-align: justify;}
     
 }
 @media screen and (max-width:768px) {
     body {background-color:aqua}
+    p {color:blue;  text-align: justify;}
     
 }
