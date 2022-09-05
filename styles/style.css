@@ -25,8 +25,8 @@ a:hover {text-decoration:underline}
     body {background-color:aqua}
     h1 {text-align:center;color:blue}
     p {color:blue;  text-align: justify;padding:3px;}
-    h2 {color:blue;text-align: center ;text-shadow:2px 2px 2px black}
+    h2 {color:blue;text-align: center ;}
     a:hover {text-decoration:underline}
-    .card {background-color:rgba(255, 255, 255,0.8);margin:1%; border-left:3px solid blue;}
+    .card {background-color:rgba(255, 255, 255,0.8);margin:1%; border-left:3px solid blue; box-shadow:2px 5px 10px black;}
     
 }
