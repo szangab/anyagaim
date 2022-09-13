@@ -25,7 +25,7 @@ img {width:100%;padding:3px;}
     
 }
 @media screen and (max-width:768px) {
-    body {background-color:rgb(133, 255, 255)}
+    body {background-color:rgb(148, 233, 250)}
     h1 {text-align:center;color:blue}
     p {color:blue;  text-align: justify;padding-left:10px; padding-right:10px; text-indent: 10%;}
     h2 {color:blue;text-align: center ;}
