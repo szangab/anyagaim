@@ -33,7 +33,7 @@ img {width:100%;padding:3px;}
     body {background-color:rgb(148, 233, 250)}
     h1 {text-align:center;color:blue}
     p {color:blue;  text-align: justify;padding-left:10px; padding-right:10px; text-indent: 10%;}
-    h1, h2 {color:blue;text-align: center ;}
+    h1, h2,h3 {color:blue;text-align: center ;}
     a:link {background-color:rgb(239, 229, 22);border:3px groove brown;border-radius:10px; text-decoration:none; display:block;}
     li {list-style-type:none;margin-top:2% ;text-align:center; width:90%; }
     a:hover {text-decoration:underline}
