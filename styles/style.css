@@ -17,7 +17,7 @@ ul{display:flex;flex-direction:row;flex-wrap:wrap}
 li {list-style-type:none; padding:1em;}
 p {color:white; text-align: justify; padding:5px;font-size: 2em; text-indent: 2em;}
 span {font-weight: bold; color: darkblue; text-transform: uppercase;}
-.up {text-transform: uppercase;}
+p.up {text-transform: uppercase; display:inline}
 .card {background-color:rgba(32, 198, 232, 0.8);margin:1%; border:3px solid blue; box-shadow:2px 5px 10px black; padding:3px;}
 .tm {width:30%}
 a:link {background-color:rgb(239, 229, 22);padding:5px;border:2px solid brown;border-radius:10px; text-decoration:none; }
