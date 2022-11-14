@@ -25,6 +25,7 @@ a:hover {color:blue; text-decoration:underline; background:linear-gradient(yello
 img {width:100%;padding:3px;}
 table {width:100%; border:5px groove black; }
     td{text-align: center; border:1px solid black;}
+figcaption {text-align:center;color:white}
 }
 @media screen and (max-width:992px)
 {body {background-color:green}
