@@ -26,7 +26,8 @@ img {width:100%;padding:3px;}
 table {width:100%; border:5px groove black; }
     td{text-align: center; border:1px solid black;}
 figcaption {text-align:center;color:white}
-#task_nonverb {display:flex; flex-direction:row}
+#task_nonverb {display:flex; flex-direction:row; justify-content:space-between}
+#task_nonverb_left {border-right:3px groove black; }
 }
 @media screen and (max-width:992px)
 {body {background-color:green}
