@@ -1,0 +1,8 @@
+Munkatársak;Szülév;Munkába állás éve
+Pok Emese;1972;1995
+Nagy Béla;1988;2001;
+Hamvas Jolán;1968;1996
+Kopasz Márta;1974;1998
+Mérey Tibor;1954;1978
+Laza Sándor;1981;2000;
+Raffay Edgár;1977;1993
