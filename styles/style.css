@@ -20,6 +20,7 @@ p {color:white; text-align: justify; padding:5px;font-size: 2em; text-indent: 2e
 span {font-weight: bold; color: darkblue; text-transform: uppercase;}
 p.up {text-transform: uppercase; display:inline}
 .card {background-color:rgba(32, 198, 232, 0.8);margin:1%; border:3px solid blue; box-shadow:2px 5px 10px black; padding:3px;}
+.sum {background-color:lightseagreen;margin:10px;padding:10px;border:3px solid darkgreen;}
 .tm {width:30%}
 a:link {background-color:rgb(239, 229, 22);padding:5px;border:2px solid brown;border-radius:10px; text-decoration:none; }
 a:hover {color:blue; text-decoration:underline; background:linear-gradient(yellow,brown); text-shadow:2px 2px 2px rgb(200, 248, 10)}
