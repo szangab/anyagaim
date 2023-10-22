@@ -22,7 +22,7 @@
       }
       
       .menu > li {
-        margin: 0 1vw;
+        margin:0 0.5vw;
        overflow: hidden;
        
       }
@@ -42,7 +42,7 @@ h2 {text-align:center;color:white;margin:2px}
 .wrapper {display:flex;flex-direction:row;justify-content: space-between; flex-wrap:wrap}
 ul{display:flex;flex-direction:row;flex-wrap:wrap;background-color:rgba(21, 51, 246,0.5)}
 li {list-style-type:circle; padding:3px; margin:5px; color:white; font-size:1.5em}
-nav>ul>li {list-style-type:none}
+
 p {color:white; text-align: justify; padding:5px;font-size: 2em; text-indent: 2em;}
 span {font-weight: bold; color: darkblue; text-transform: uppercase;}
 p.up {text-transform: uppercase; display:inline}
@@ -50,7 +50,7 @@ p.up {text-transform: uppercase; display:inline}
 .newtheme {background-color: rgba(0,0,255,0.5);box-shadow:2px 5px 2px black; padding:2vw}
 .sum {background-color:lightseagreen;margin:10px;padding:10px;border:3px solid darkgreen; box-shadow:5px 5px 5px black;}
 .tm {width:30%}
-a:link {background-color:rgb(239, 229, 22);padding:5px;border:2px solid brown;border-radius:10px; text-decoration:none; }
+a:link {background-color:rgb(239, 229, 22);font-size:0.7em;padding:5px;border:2px solid brown;border-radius:10px; text-decoration:none; }
 a:hover {color:blue; text-decoration:underline; background:linear-gradient(yellow,brown); text-shadow:2px 2px 2px rgb(200, 248, 10)}
 img {width:100%;padding:3px;}
 table {width:100%; border:5px groove black; color:white}
