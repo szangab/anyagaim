@@ -17,11 +17,8 @@
       
     .menu {
         display: flex;
-        flex-direction: row;
-        list-style-type: none;
-        
-        padding: 0;
-        
+        flex-direction: row;         
+        padding: 0;        
       }
       
       .menu > li {
