@@ -174,5 +174,6 @@ img {width:100%;padding:3px;}
     figure{width:90%; box-shadow:3px 3px 5px black;margin-left: auto;margin-right: auto;}
     figcaption {text-align: center; font-weight: bolder;;}
     #task_nonverb {display:block}
-    
+    #task_nonverb_right {display:block}
+    #task_nonverb_left {display:block;  }
 }
