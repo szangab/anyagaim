@@ -1,0 +1,14 @@
+Utasítás a traktorhoz
+
+1. A szöveg Times New Roman 12 betûkbõl áll, a bekezdések sorkizártak.
+2. A szöveg helyenként feleslegesen kérdõjeleket tartalmaz, ezeket cseréld ki vesszõre!
+3. A margókat állítsd 2 cm-esre alul és felül, bal és jobb oldalon!
+4. Az élõfejben lévõ szöveg Arial 16-os, 2 pontos riktított betûkbõl áll.A szöveg bekezdése jobbra igazított, és 3 cm-es jobbos behúzása van. A szöveg (Traktorszerelési tanácsok) alatt 3 pontos térhatású vonal található. Az élõfej jobb oldalán a zetor.jpg kép van beszúrva, mérete az eredeti méretének  20%-a. Az élõfej bal oldalán az oldalszám látható.
+5. Az elsõ bekezdés ( a Nagyüzemben, márkaszervizben szövegrészig) kéthasábos, azonos szélességû hasáb, a hasábok közt 1 cm-es térköz van.
+6. A beillesztett szövegben nincsen felesleges enter-jel (Minden bekezdésben van szöveg!)
+7. A második bekezdés (nagyüzemben, márkaszervízben) három hasábos: a hasábok sorrendben 2,3 10 cm-esek, köztük 1 cm-es térköz és vonal van.
+8. A hasábok közti mondatok Arial Black 14-es, félkövér, kiskapitális betûk, melyek középre vannak helyezve. 
+9. A harmadik bekezdés után (Otthon) oldaltörés van. (AKI ENTEREKET ÜT, ÉN ÜTÖM MEG!!!)
+10.A második oldal tetején levõ szöveg (Ami a legjobban kopik) négyhasábos, a hasábok 3.5 - 2.5 - 3.5 - maradék hosszúak, a térköz 2,07 cm-es.
+11. A harmadik oldal tetején levõ szöveg (Ne nyúljunk hozzá) kéthasábos. Középen ott a zetor, melynek mérete az eredeti méret 65 %-a;  egy fekete keret veszi körül, a hasábok közt van.
+
