@@ -50,6 +50,7 @@ td{text-align: center; border:1px solid black;}
 figcaption {text-align:center;color:white}
 #task_nonverb {display:flex; flex-direction:row; justify-content:space-between}
 #task_nonverb_left {border-right:3px groove black; }
+.task {background-color: lightblue; color:blue;border:5px groove black;box-shadow: 5px 5px 5px black;}
 .rejt {display:none}
 }
 @media screen and (max-width:992px)
@@ -177,4 +178,5 @@ img {width:100%;padding:3px;}
     #task_nonverb_right {display:block}
     #task_nonverb_left {display:block;  }
     .rejt {display:none}
+    .task {background-color:lightgray; color:blue;box-shadow: 5px 5px 5px black;}
 }
